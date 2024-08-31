@@ -60,7 +60,7 @@ Based on these criteria, four companies - GigaCloud Technology Inc (GCT), APA Co
 
 ## Links
 
-- [Financial Analysis of Undervalued Companies](./Financial_Analysis_of_Undervalued_Companies.pdf)
+- [Financial Analysis of Undervalued Companies](https://github.com/mchenryspagg/Identifying-Undervalued-Companies/blob/main/Financial%20Analysis%20of%20Undervalued%20Companies.pdf)
   
 
 ## Key Insights
